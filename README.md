@@ -7,6 +7,7 @@ Este proyecto tiene como objetivo optimizar el análisis diario de productos dis
 •	Almacenamiento automático de la información de cada producto.
 •	Generación de reporte de los productos descargados y datos estadísticos relevantes.
 •	Integración con diferentes fuentes de datos (archivo Excel, formulario web de registro de la subida del reporte, base de datos).
+• Formulario web: https://form.jotform.com/252297956972678
 
 ⚙️ Tecnologías utilizadas
 •	RPA (PIX Studio)
